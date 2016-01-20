@@ -1,0 +1,14 @@
+target/
+.idea/
+*.ids
+*.ipr
+*.iws
+*.iml
+out/
+build/
+lib/
+classes/
+.gradle/
+*.log*
+assignments/
+*/bin
